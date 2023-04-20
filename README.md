@@ -1,4 +1,4 @@
-Hola! Soy estudiante de la carrera de ingenieria de software abierto a nuevos aprendizajes que mediante este medio compartire mis trabajos y proyectos hechos desde que empeze a entrar al mundo de la programacion.
+Hola! Soy estudiante de la carrera de ingenieria de software abierto a nuevos aprendizajes y mediante este medio compartire mis trabajos y proyectos hechos desde que empeze a entrar al mundo de la programacion.
 Bienvenidos!, Welcome!, Accueillir! 😃
 
 <!--
