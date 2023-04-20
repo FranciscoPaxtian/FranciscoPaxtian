@@ -1,4 +1,5 @@
-### Hi there 👋
+Hola! Soy estudiante de la carrera de ingenieria de software abierto a nuevos aprendizajes que mediante este medio compartire mis trabajos y proyectos hechos desde que empeze a entrar al mundo de la programacion.
+Bienvenidos!, Welcome!, Accueillir! 😃
 
 <!--
 **FranciscoPaxtian/FranciscoPaxtian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
