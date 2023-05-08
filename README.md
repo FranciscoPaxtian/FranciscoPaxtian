@@ -1,7 +1,7 @@
 Hola! Soy estudiante de la carrera de ingenieria de software orgullosamente mexicano, abierto a nuevos aprendizajes y mediante este medio compartire mis trabajos y proyectos hechos desde que empeze a entrar al mundo de la programacion.
 Bienvenidos!, Welcome!, Accueillir! 😃
 
-**Lenguaje conocidos**
+**Lenguajes conocidos**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" **alt="C" width="40" height="40"/>
