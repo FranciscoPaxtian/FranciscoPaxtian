@@ -1,4 +1,4 @@
-Hola! Soy estudiante de la carrera de ingenieria de software orgullosamente mexicano, abierto a nuevos aprendizajes y mediante este medio compartire mis trabajos y proyectos hechos desde que empeze a entrar al mundo de la programacion.
+Hola! Soy ingeniero de software orgullosamente mexicano, abierto a nuevos aprendizajes y mediante este medio compartire mis trabajos y proyectos hechos desde que empeze a entrar al mundo de la programacion hasta ahora.
 Bienvenidos!, Welcome!, Accueillir! 😃
 
 **Lenguajes conocidos**
